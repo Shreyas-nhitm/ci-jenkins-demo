@@ -1,0 +1,10 @@
+{
+  "name": "ci-jenkins-demo",
+  "version": "1.0.0",
+  "description": "CI pipeline demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo Build successful"
+  }
+}
